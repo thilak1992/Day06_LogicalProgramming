@@ -22,7 +22,7 @@ public class ToBinary {
         }
 
         System.out.println("Binary value is: ");
-                                                            // printing binary array in reverse order
+                                                             // printing binary array in reverse order
         for (int j = i - 1; j >= 0; j--) {
             System.out.print(binary[j]);
         }

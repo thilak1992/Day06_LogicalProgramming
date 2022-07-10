@@ -3,7 +3,7 @@ package com.Bridgelabz.Day06LogicalProblems_JUnitTesting;
 import java.util.Scanner;
 
 public class VendingMachine {
-                                                                            // Static Variables i for indexing the array and total for calculating the total Notes
+                                                                             // Static Variables i for indexing the array and total for calculating the total Notes
     static int i = 0;
     static int total = 0;
 

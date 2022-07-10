@@ -16,11 +16,11 @@ public class MonthlyPayment {
     }
 
     public static void main(String[] args) {
-                                                                                                        // command-line arguments
+                                                                                                         // command-line arguments
         principalAmount = Double.parseDouble(args[0]);
         rate = Double.parseDouble(args[1]);
         years = Double.parseDouble(args[2]);
-                                                                                                        // calling method
+                                                                                                         // calling method
         monthlyPaymentComputation(principalAmount, rate, years);
     }
 }

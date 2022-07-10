@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class TemperatureConversion {
 
-                                                                    //fahrenheitCheck method created with arguments
+                                                                     //fahrenheitCheck method created with arguments
     public static void fahrenheitCheck(double celsius) {
                                                                     //double fahrenheit = 0;
         double fahrenheit = celsius * 9 / 5 + 32;                   //formula for converting fahrenheit into celsius
@@ -14,7 +14,7 @@ public class TemperatureConversion {
                                                                     //celsiusCheck method created with arguments
     public static void celsiusCheck(double fahrenheit) {
                                                                     //double celsius = 0;
-        double celsius = (fahrenheit - 32) * 5 / 9;                 //formula for converting fahrenheit into celsius
+        double celsius = (fahrenheit - 32) * 5 / 9;                  //formula for converting fahrenheit into celsius
         System.out.println("Celsius: " +celsius);
     }
 

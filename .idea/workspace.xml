@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72d29e1c-21ef-4133-a3c4-bec487e52bfa" name="Changes" comment="To find the fibonacci Series of nth term">
-      <change afterPath="$PROJECT_DIR$/src/com/Bridgelabz/Day06LogicalProblems_JUnitTesting/DayOfWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Bridgelabz/Day06LogicalProblems_JUnitTesting/MonthlyPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Bridgelabz/Day06LogicalProblems_JUnitTesting/Sqrt_NewtonsMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Bridgelabz/Day06LogicalProblems_JUnitTesting/TemperatureConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Bridgelabz/Day06LogicalProblems_JUnitTesting/ToBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Bridgelabz/Day06LogicalProblems_JUnitTesting/VendingMachine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="72d29e1c-21ef-4133-a3c4-bec487e52bfa" name="Changes" comment="Logical Programming/JUnitTesting">
+      <change beforePath="$PROJECT_DIR$/src/com/Bridgelabz/Day06LogicalProblems_JUnitTesting/DayOfWeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Bridgelabz/Day06LogicalProblems_JUnitTesting/DayOfWeek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Bridgelabz/Day06LogicalProblems_JUnitTesting/MonthlyPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Bridgelabz/Day06LogicalProblems_JUnitTesting/MonthlyPayment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Bridgelabz/Day06LogicalProblems_JUnitTesting/Sqrt_NewtonsMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Bridgelabz/Day06LogicalProblems_JUnitTesting/Sqrt_NewtonsMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Bridgelabz/Day06LogicalProblems_JUnitTesting/TemperatureConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Bridgelabz/Day06LogicalProblems_JUnitTesting/TemperatureConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Bridgelabz/Day06LogicalProblems_JUnitTesting/VendingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Bridgelabz/Day06LogicalProblems_JUnitTesting/VendingMachine.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657493154571</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Logical Programming/JUnitTesting">
+      <created>1657494619739</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657494619739</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,6 +159,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Functional Programming" />
-    <option name="LAST_COMMIT_MESSAGE" value="Functional Programming" />
+    <MESSAGE value="Logical Programming/JUnitTesting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Logical Programming/JUnitTesting" />
   </component>
 </project>
