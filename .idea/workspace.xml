@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72d29e1c-21ef-4133-a3c4-bec487e52bfa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY06_LogicalProgramming.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Bridgelabz/Day06LogicalProblems/CouponNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Bridgelabz/Day06LogicalProblems/FibonacciSeries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Bridgelabz/Day06LogicalProblems/PerfectNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Bridgelabz/Day06LogicalProblems/PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Bridgelabz/Day06LogicalProblems/ReverseAnumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Bridgelabz/Day06LogicalProblems/StopWatchSimulation.java" afterDir="false" />
+    <list default="true" id="72d29e1c-21ef-4133-a3c4-bec487e52bfa" name="Changes" comment="To find the fibonacci Series of nth term">
+      <change afterPath="$PROJECT_DIR$/src/com/Bridgelabz/Day06LogicalProblems_JUnitTesting/DayOfWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Bridgelabz/Day06LogicalProblems_JUnitTesting/MonthlyPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Bridgelabz/Day06LogicalProblems_JUnitTesting/Sqrt_NewtonsMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Bridgelabz/Day06LogicalProblems_JUnitTesting/TemperatureConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Bridgelabz/Day06LogicalProblems_JUnitTesting/ToBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Bridgelabz/Day06LogicalProblems_JUnitTesting/VendingMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +23,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -40,13 +40,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.PerfectNumber">
+}</component>
+  <component name="RunManager" selected="Application.FibonacciSeries">
     <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Bridgelabz.Day06LogicalProblems.FibonacciSeries" />
       <module name="DAY06_LogicalProgramming" />
@@ -131,6 +131,14 @@
       <option name="presentableId" value="Default" />
       <updated>1657491707987</updated>
     </task>
+    <task id="LOCAL-00001" summary="Functional Programming">
+      <created>1657493154571</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657493154571</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,5 +151,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Functional Programming" />
+    <option name="LAST_COMMIT_MESSAGE" value="Functional Programming" />
   </component>
 </project>
